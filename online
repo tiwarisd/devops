@@ -1,0 +1,5 @@
+!#/bin/bash
+
+$Ram=Shyam
+
+Hello My Name is $Ram.
